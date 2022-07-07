@@ -1,0 +1,2 @@
+//*[@class='search3__button-svg']
+.search3__button-svg
